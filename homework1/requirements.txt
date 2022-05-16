@@ -1,0 +1,53 @@
+astroid @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/da/ff/35/a0c834e26e322a236913e0a61aaef9ca66c11b3df279aa56684e2ec213/astroid-2.11.2-py3-none-any.whl
+attrs @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/9a/27/ab/6895b786f345452394b42c1fdbe863803d0396e675b632c01cb13cad92/attrs-21.4.0-py2.py3-none-any.whl
+autoflake @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/74/62/62/d251f3f370b78f07f784b7c0f5be17b5800f48099af9a6c9c0fc9bc508/autoflake-1.4.tar.gz
+black @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/11/4c/fc/cd6d885e9f5be135b161e365b11312cff5920d7574c8446833d7a9b1a3/black-22.3.0-cp38-cp38-macosx_10_9_x86_64.whl
+click @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/f0/23/09/b13d61d1fa8b3cd7c26f67505638d55002e7105849de4c4432c28e1c0d/click-8.1.2-py3-none-any.whl
+coverage @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/1c/5e/a7/b06fdbb734caadbb2a417669428028d8e580c3abb20b5e773683f73d25/coverage-6.3.2-cp38-cp38-macosx_10_9_x86_64.whl
+dill @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/28/60/d3/32828bed02c4d7c32349419de5acbc87826c39d627804affa9a357ca4b/dill-0.3.4-py2.py3-none-any.whl
+flake8 @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/0d/4b/21/8c766e4015d3210fdbf8d1091620d52db306cd8c85ba8f2b37ebf48a75/flake8-4.0.1-py2.py3-none-any.whl
+Flask @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/7d/f6/22/7e0122e8efc0cf2e89fde73d6ff58b627946faa62f625e38669fa5a6e4/Flask-2.1.1-py3-none-any.whl
+greenlet @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/c4/d7/bd/1189c0e33c2986fa09a8a45b6c6469228e6970d57d699f01c95b811696/greenlet-1.1.2-cp38-cp38-macosx_10_14_x86_64.whl
+importlib-metadata @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/c9/3e/75/cf7a7a52d23e859075d6702d5c617168f8a4046b1a43888939c2631c4b/importlib_metadata-4.11.3-py3-none-any.whl
+iniconfig @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/ac/f9/da/e990ffcd9ec361a68676a5916e391286e1ea5d1b8907ae887e141a71f5/iniconfig-1.1.1-py2.py3-none-any.whl
+isort @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/08/6b/bf/a994a4feb3ad0863ccc2edf385a86c88314f00f00732f08093af5fa3dc/isort-5.10.1-py3-none-any.whl
+itsdangerous @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/a0/eb/86/3b57c01995c6daad9f3b47aba7edb72501b915276f47ccf22efe74a37e/itsdangerous-2.1.2-py3-none-any.whl
+Jinja2 @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/ab/4d/ab/2015d2f5c2ed2ba07a5cbe0dd8507572dd60a930e4d15d1a4146f50ce5/Jinja2-3.1.1-py3-none-any.whl
+joblib==1.1.0
+lazy-object-proxy @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/e2/9f/e9/eea37a309c22064016bf20ef464c53aa420fa9af7a3e021f9a70e4a789/lazy_object_proxy-1.7.1-cp38-cp38-macosx_10_9_x86_64.whl
+MarkupSafe @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/91/9b/05/057ca2faee421138dc11ac5f4cb36ea552ed73db287de0c4c41f15b365/MarkupSafe-2.1.1-cp38-cp38-macosx_10_9_x86_64.whl
+mccabe @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/37/6e/69/4a33a4d6c80c775b1ee205face2c6e07b762c8602bb0f0d236ebe790c5/mccabe-0.6.1-py2.py3-none-any.whl
+MyApplication==0.1.0
+mypy @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/a4/8d/7f/ea7bf8f2f0f23bd4bbb78a2fd8d8f059911ef0c820dd6e59d81366277d/mypy-0.940-cp38-cp38-macosx_10_9_x86_64.whl
+mypy-extensions @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/b6/a0/b0/a5dc9acd6fd12aba308634f21bb7cf0571448f20848797d7ecb327aa12/mypy_extensions-0.4.3-py2.py3-none-any.whl
+numpy==1.22.3
+packaging @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/7f/d5/4c/1d3c4776012fc0bbe1f86e69bde2c5e36d2d32caa2e4845ac1fc08ab3f/packaging-21.3-py3-none-any.whl
+pandas==1.4.2
+pathspec @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/04/91/14/294ed2ee6c852b0d466bdd15d393127eff4168b35ae81cedf5a03fe348/pathspec-0.9.0-py2.py3-none-any.whl
+platformdirs @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/69/d8/85/534d33a027326b761252b65d12289eed45f2fed6912d6ffd47affe6284/platformdirs-2.5.1-py3-none-any.whl
+pluggy @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/38/05/d7/70e2b0d553c780097b692ed658b0f553a28f16028d848a98174b1a2249/pluggy-1.0.0-py2.py3-none-any.whl
+py @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/ab/b4/c3/a3971fd0d6ab5a2e40a43ad7b809005422d7cf333f7be6ccdfe9002e1b/py-1.11.0-py2.py3-none-any.whl
+pycodestyle @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/c8/b5/c4/20e98d955193296673ec9d57510115c96ea8c60a7e2cd212c3999f9d20/pycodestyle-2.8.0-py2.py3-none-any.whl
+pyflakes @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/f2/d6/08/0d69fadd16b2e7ec2870ad6286f0929fbb102236d0ae0890816d760f32/pyflakes-2.4.0-py2.py3-none-any.whl
+pylint @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/ec/16/cd/4df7d2bb62a601f01d42627dbc452c1f56a309bbb891cf20992093b175/pylint-2.13.5-py3-none-any.whl
+pyparsing @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/8a/67/7c/c21f632fb8255d9fc3882ed4548b0270011ef2a160a6031635274760a2/pyparsing-3.0.7-py3-none-any.whl
+pytest @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/1c/4d/ee/203e33e67624672b4775df627230210e015630536a13a13794b0fc1b7d/pytest-7.1.1-py3-none-any.whl
+pytest-cov @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/ce/cd/a2/2d987485d9ccd39e0e4c99f44afb2031232743eb1ec04c4ccf1c3d3b44/pytest_cov-3.0.0-py3-none-any.whl
+pytest-deadfixtures @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/53/be/fa/da25a61b82ddbd2e4d777df2bbf03ce685415829d31987c0ef02f7faa8/pytest_deadfixtures-2.2.1-py2.py3-none-any.whl
+pytest-flask @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/25/13/c3/4417400abd695e296fd49b20f829ea6208ab4e9dd4d820c085f666dbe0/pytest_flask-1.2.0-py3-none-any.whl
+pytest-mock @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/68/98/ef/ca00c70f84f424dabfc13b2785c2bb792d9e29e26d6d71847ffab1a459/pytest_mock-3.7.0-py3-none-any.whl
+python-dateutil==2.8.2
+pytz==2022.1
+scikit-learn==1.1.0
+scipy==1.8.0
+six==1.16.0
+sklearn==0.0
+SQLAlchemy @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/60/81/99/19725ab922871e3aa97105a3b3569a41fee9679dfa99c9417f119fd613/SQLAlchemy-1.4.35-cp38-cp38-macosx_10_14_x86_64.whl
+threadpoolctl==3.1.0
+tomli @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/36/bd/11/98fa2af866c73d00f2498ade62c7fcf28db8656714b7b7a44e9cb2f855/tomli-2.0.1-py3-none-any.whl
+typing_extensions @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/d8/15/d9/af7ec814ed6e1c696c44ca3bfff21d29263f6bcf7f23801bddca78b3c7/typing_extensions-4.1.1-py3-none-any.whl
+unify @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/6d/28/ea/0e767f14c024310bc0b9a963e1837546e7e859ae039343c5fc105e9065/unify-0.5.tar.gz
+untokenize @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/7f/ed/a9/ee31990c950f63e089689c1f412eb413d346c9d6627ae793e954439c90/untokenize-0.1.1.tar.gz
+Werkzeug @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/dc/e5/a8/3cf0d3e6a87dad532b035d237e5fe2eba216c4bf45e1f16cfad093bc4f/Werkzeug-2.1.1-py3-none-any.whl
+wrapt @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/8f/9e/b7/27956cf4c891e53d4eadc418425c1d2b342d0d82b90b347ed4b252af3d/wrapt-1.14.0-cp38-cp38-macosx_10_9_x86_64.whl
+zipp @ file:///Users/maksimgritskikh/Library/Caches/pypoetry/artifacts/4f/ef/74/a2e3ed624c546651f2ae9baca2eec6d2597a5c87b8370870bab625340c/zipp-3.8.0-py3-none-any.whl
