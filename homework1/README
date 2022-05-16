@@ -1,0 +1,6 @@
+Поставить окуржение
+source homework1/bin/activate
+Запустить обучение
+python src/train.py 
+Получить скор в predict
+python src/predict.py 
