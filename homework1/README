@@ -1,6 +1,8 @@
 Поставить окуржение
-source homework1/bin/activate
+    virtualenv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
 Запустить обучение
-python src/train.py 
+    python src/train.py
 Получить скор в predict
-python src/predict.py 
+    python src/predict.py
